@@ -1,0 +1,64 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "f15918c7-0f9e-41df-a1b0-e8ebff57454c",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Hi my name is Matthew. I am a String\n",
+      "<class 'str'>\n",
+      "Hi my name is Precious. I am also a String\n",
+      "<class 'str'>\n"
+     ]
+    }
+   ],
+   "source": [
+    "#Python program to print strings and type\n",
+    "str1 = \"Hi my name is Matthew. I am a String\"\n",
+    "str2 = \"Hi my name is Precious. I am also a String\"\n",
+    "\n",
+    "# displaying string str1 and its type\n",
+    "print(str1)\n",
+    "print(type(str1))\n",
+    "\n",
+    "#displaying string str2 and its type \n",
+    "print(str2)\n",
+    "print(type(str2))\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "528b800a-e6bd-47ca-8503-5bc55fe924d5",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python [conda env:base] *",
+   "language": "python",
+   "name": "conda-base-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.7"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
